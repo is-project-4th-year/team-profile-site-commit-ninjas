@@ -1,7 +1,7 @@
 # This documentation outlines the learnt concepts by Commit Ninjas group for the Git/Github crash course
 
 # Group Members
-1. Bill Chakairu
+1. Bill Gichuru Chakairu
 2. Miguel Gashugi
 3. Saleh Saleh
 4. Rewel Maina
