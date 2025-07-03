@@ -8,7 +8,6 @@
 5. Joey Rutozi
 
 # Learnt Concepts
-<<<<<<< HEAD
 # Bill Chakairu
 1. I learned how to use conventional methods to create issues, milestones, and commits effectively.
 2. I gained a deeper understanding of collaboration workflows using pull requests, including how to name them clearly and meaningfully.
