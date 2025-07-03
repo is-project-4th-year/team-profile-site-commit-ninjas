@@ -13,3 +13,4 @@
 2. I gained a deeper understanding of collaboration workflows using pull requests, including how to name them clearly and meaningfully.
 3. I explored the GitHub Project Board as a tool for organizing and tracking progress.
 4. Additionally, I learned the differences between Git merge, Git rebase, and Git squash-and-merge strategies, and how each impacts the project history.
+5. Git rebase simplifies code history 
