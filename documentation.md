@@ -8,8 +8,7 @@
 5. Joey Rutozi
 
 # Learnt Concepts
-# Bill Chakairu
-1. I learned how to use conventional methods to create issues, milestones, and commits effectively.
-2. I gained a deeper understanding of collaboration workflows using pull requests, including how to name them clearly and meaningfully.
-3. I explored the GitHub Project Board as a tool for organizing and tracking progress.
-4. Additionally, I learned the differences between Git merge, Git rebase, and Git squash-and-merge strategies, and how each impacts the project history.
+1. We learned how to use conventional methods to create issues, milestones, and commits effectively.
+2. We gained a deeper understanding of collaboration workflows using pull requests, including how to name them clearly and meaningfully.
+3. We explored the GitHub Project Board as a tool for organizing and tracking progress.
+4. Additionally, we learned the differences between Git merge, Git rebase, and Git squash-and-merge strategies, and how each impacts the project history.
